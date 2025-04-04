@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.user {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+}
